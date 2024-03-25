@@ -1,0 +1,11 @@
+C:\Users\crist\source\repos\II\Lab3ll\Lab3ll\obj\Debug\Lab3ll.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\II\Lab3ll\Lab3ll\obj\Debug\Lab3ll.Form1.resources
+C:\Users\crist\source\repos\II\Lab3ll\Lab3ll\obj\Debug\Lab3ll.Properties.Resources.resources
+C:\Users\crist\source\repos\II\Lab3ll\Lab3ll\obj\Debug\Lab3ll.csproj.GenerateResource.cache
+C:\Users\crist\source\repos\II\Lab3ll\Lab3ll\obj\Debug\Lab3ll.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\II\Lab3ll\Lab3ll\bin\Debug\Lab3ll.exe.config
+C:\Users\crist\source\repos\II\Lab3ll\Lab3ll\bin\Debug\Lab3ll.exe
+C:\Users\crist\source\repos\II\Lab3ll\Lab3ll\bin\Debug\Lab3ll.pdb
+C:\Users\crist\source\repos\II\Lab3ll\Lab3ll\obj\Debug\Lab3ll.exe
+C:\Users\crist\source\repos\II\Lab3ll\Lab3ll\obj\Debug\Lab3ll.pdb
+C:\Users\crist\source\repos\II\Lab3ll\Lab3ll\obj\Debug\Lab3ll.Form2.resources
